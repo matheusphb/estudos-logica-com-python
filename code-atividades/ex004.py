@@ -11,7 +11,7 @@ calc_media_ponderada = (nota1 * peso_bimestal1 + nota2 * peso_bimestal1 + nota3 
 
 media_ponderada_inteira = round(calc_media_ponderada)
 
-if media_ponderada_inteira >= 60:
+if media_ponderada_inteira >= 60: 
     print(f'\033[1;40;42mO Aluno {nomeAluno} obteve a média de {media_ponderada_inteira} e está aprovado.')
 elif 20 <= media_ponderada_inteira <= 59:
     print(f'\033[1;30;43mO Aluno {nomeAluno} obteve a média de {media_ponderada_inteira} e está em recuperação.')

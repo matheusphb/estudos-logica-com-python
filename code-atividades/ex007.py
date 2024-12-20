@@ -9,6 +9,6 @@
 soma = 0
 for i in range(1, 9):
     nota = float(input('Nota Aluno {} :'.format(i)))
-    soma = soma + nota
+    soma = soma + nota 
 media = soma/8
 print('A media da turma foi {}'.format(round(media)))

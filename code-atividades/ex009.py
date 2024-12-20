@@ -10,4 +10,4 @@ s = 0
 while cont <= 6:
     s += cont
     cont += 2
-print(s)
+print(s) 

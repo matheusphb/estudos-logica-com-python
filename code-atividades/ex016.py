@@ -9,7 +9,7 @@
     #Calcular a quantidade de cédulas (de cada tipo) utilizadas para a composição do valor a ser sacado;
     #O cálculo dever seguir a seguinte lógica: Utilizar a cédula (de maior valor informada pelo cliente) até que não seja mais possível, e então buscar a cédula imediatamente inferior e repetir o processo até que a composição do valor total seja satisfeita.
     #Informar o valor sacado e a quantidade de cédulas (de cada tipo) utlizadas.
-
+ 
 #ALGORITMO DE SOLUÇÃO:
 saque = int(input("Qual o valor que deseja sacar? "))
 while saque < 1:

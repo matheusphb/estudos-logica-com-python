@@ -9,4 +9,4 @@ while quantidade <= 8:
     soma = soma + nota
     quantidade = quantidade + 1
 media = soma/8
-print('A média da turma foi {}'.format(round(media)))
+print('A média da turma foi {}'.format(round(media))) 

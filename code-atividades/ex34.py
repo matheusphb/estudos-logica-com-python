@@ -5,4 +5,4 @@ def modificar(x):
 
 num  = 10
 modificar(num)
-print("valor fora da função", num)
+print("valor fora da função", num) 

@@ -11,7 +11,7 @@ soma = soma +n1
 
 n2 = float(input('Nota Aluno 2:'))
 soma = soma +n2
-
+ 
 n3 = float(input('Nota Aluno 3:'))
 soma = soma +n3
 

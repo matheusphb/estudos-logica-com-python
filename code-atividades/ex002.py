@@ -10,4 +10,4 @@ b = 1.70
 print("A soma de x e y: ", x + y)
 print("Qual o seu Tipo?", type(a))
 print("Qual o seu Tipo?", type(b))
-print("Qual o seu Tipo?", type(x))
+print("Qual o seu Tipo?", type(x)) 

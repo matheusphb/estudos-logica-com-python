@@ -1,7 +1,7 @@
 valores = []
 valores.append(8)
 valores.append(16)
-valores.append(32)
+valores.append(32) 
 
 #for v in valores:
     #print(f'{v}...')

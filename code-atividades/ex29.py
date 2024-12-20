@@ -3,7 +3,7 @@ print('{:^40}'.format('Supermercado Tabajara'))
 print('=' * 40)
 info_produto = dict()
 produtos = list()
-
+ 
 while True:
 
     numero = len(produtos) + 1

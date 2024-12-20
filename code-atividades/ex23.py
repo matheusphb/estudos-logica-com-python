@@ -3,6 +3,6 @@ soma = 0
 for i in lista:
     if i % 2 == 0:
         soma += i
-    else:
+    else: 
         soma -= i
 print(soma)

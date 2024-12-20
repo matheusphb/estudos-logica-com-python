@@ -12,6 +12,6 @@ if 4 in num:
     num.remove(4)
 else:
     print('Não achei o número 4')
-print(num)
+print(num) 
 
 print(f'Essa lista tem {len(num)} elementos') #Imprime o total de elementos dentro da lista

@@ -12,7 +12,7 @@ sucessor = num1 +1
 dobro = num1 + num1
 triplo = num1 * 3
 raiz_quadrada = math.sqrt(num1) #num** 0.5
-media = (num1 + num2)/2
+media = (num1 + num2)/2 
 
 print(f'O antecessor do número 1 informado é {antecessor} e sucessor o número é {sucessor}. O dobro é {dobro}, o triplo é {triplo} e a sua raiz quadrada é {raiz_quadrada} :')
 
